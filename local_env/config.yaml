@@ -1,0 +1,7 @@
+path: C:\Users\[NOME DO USUÁRIO]\Desktop\trabalho_a3
+train: train
+val: train
+
+# Classes
+names:
+  0: porca
